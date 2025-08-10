@@ -17,3 +17,4 @@ This project demonstrates Git best practices: branching, commits, pull requests,
 ## Tools
 - Git
 - GitHub
+## New Section
